@@ -1,0 +1,3 @@
+# Trinket
+
+Reusable Python snippets.
